@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yasniel1408/nodejstutorial#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
     "stream": "^0.0.2"
